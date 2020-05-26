@@ -1,0 +1,4 @@
+#Tue May 26 20:47:08 ADT 2020
+base.0=/Users/apurvtripathi/Desktop/AcademicCourses/Java Projects/flutter_apps/clima/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
