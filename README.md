@@ -1,5 +1,4 @@
 <p align="center">
-<iframe src="https://giphy.com/embed/mf8UbIDew7e8g" width="480" height="411" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
 
 
 # Clima Flutter App
@@ -18,7 +17,7 @@ IDEs : Android Studio, VS Code
 UI: Sketch
 
  <p align="center">
-    <img src="https://imgur.com/hMG0y00"/>
+    <img src="https://i.imgur.com/rPj71zx.jpg"/>
     <img src="https://imgur.com/rPj71zx"/>
 
 The first page is the main page of the application, that shows the weather report for the current hour in your current city. The Second page helps in searching for different cities and finding the weather report. To use this application, Internet connection and location data is needed.
