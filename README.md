@@ -1,6 +1,6 @@
 
  <p align="center">
-    <img src="https://i.imgur.com/MiPgm50.gifv"/>
+    <a href="https://imgur.com/MiPgm50"><img src="https://i.imgur.com/MiPgm50.gif" title="source: imgur.com" /></a>
  
 # Clima Flutter App
 A Flutter App that helps you find the exact weather in any city in the world or in your current city. The app also suggest to carry an umbrella or a jacket with you according to weather. The app is available for both apple and android device(not on stores yet).
@@ -18,17 +18,13 @@ IDEs : Android Studio, VS Code
 UI: Sketch
 
  <p align="center">
-    <img src="https://i.imgur.com/rPj71zx.jpg" width="300", height= "400"/>
-    <img src="https://i.imgur.com/hMG0y00.png" width="300", height= "400"/>
+    <img src="https://i.imgur.com/rPj71zx.jpg" width="300", height= "600"/>
+    <img src="https://i.imgur.com/hMG0y00.png" width="300", height= "600"/>
 
 The first page is the main page of the application, that shows the weather report for the current hour in your current city. The Second page helps in searching for different cities and finding the weather report. To use this application, Internet connection and location data is needed.
 
 ## Development
 [Myself](https://github.com/Apurv-T) worked to develop the iOS and Android application using Flutter, Dart, Android Studio and Java.
-
-## Result
-
-
 
 
 ## Future Plans
