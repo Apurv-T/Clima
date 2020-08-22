@@ -12,10 +12,17 @@ To tackle with this problem of ever changing weather, I developed an application
 
 ## Tools Used
 To develop this application, 
-Software Development Kit: Flutter
-Programming Languages: Dart, Java, JSON
-IDEs : Android Studio, VS Code
-UI: Sketch
+<ul>
+  <li>Software Development Kit: Flutter</li>
+  <li>Programming Languages: Dart, Java, JSON</li>
+  <li>IDEs : Android Studio, VS Code</li>
+   <li>UI: Sketch</li>
+</ul>  
+
+
+
+
+
 
  <p align="center">
     <img src="https://i.imgur.com/rPj71zx.jpg" width="300", height= "600"/>
