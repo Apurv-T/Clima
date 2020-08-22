@@ -25,8 +25,9 @@ To develop this application,
 
 
  <p align="center">
+ <img src="https://i.imgur.com/hMG0y00.png" width="300", height= "600"/>
     <img src="https://i.imgur.com/rPj71zx.jpg" width="300", height= "600"/>
-    <img src="https://i.imgur.com/hMG0y00.png" width="300", height= "600"/>
+    
 
 The first page is the main page of the application, that shows the weather report for the current hour in your current city. The Second page helps in searching for different cities and finding the weather report. To use this application, Internet connection and location data is needed.
 
